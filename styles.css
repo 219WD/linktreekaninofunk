@@ -185,6 +185,10 @@ a {
     padding: 1em;
   }
 
+  .story-img {
+    width: 100vw;
+  }
+
   .cursor {
     display: none;
   }

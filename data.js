@@ -22,9 +22,17 @@ export const stories = [
   {
     profileImg: "./assets/profile-5.png",
     profileName: "Youtube",
-    title: ["Videoclips oficiales", "Lanzamientos", "Y mucho más."],
+    title: ["Videoclips oficiales", "Lanzamientos", "Y mucho más"],
     linkLabel: "Canal de Youtube",
-    linkSrc: "https://api.whatsapp.com/send/?phone=5493816671884&text=Hola,%20quiero%20contratar%20tus%20Web%20Services.&type=phone_number&app_absent=0",
+    linkSrc: "https://www.youtube.com/@kaninofunk",
     storyImg: "./assets/story-3.png",
+  },
+  {
+    profileImg: "./assets/profile-3.png",
+    profileName: "Whatsapp",
+    title: ["Contrataciones", "Colaboraciones", "Shows en vivo"],
+    linkLabel: "Contratá por Whatsapp",
+    linkSrc: "https://api.whatsapp.com/send/?phone=5491149391492&text=Hola,%20quiero%20contratar%20al%20Rapero%20del%20Tren%20Roca.&type=phone_number&app_absent=0",
+    storyImg: "./assets/story-4.png",
   },
 ];
